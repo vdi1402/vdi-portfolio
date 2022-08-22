@@ -25,7 +25,7 @@ const Illustration = () => {
           <h2 className="text-3xl font-semibold text-transparent bg-clip-text  md:font-extrabold  bg-gradient-to-r from-color2 to-color3 ">
             Web Projects
           </h2>
-          <p>A collection of illustrations made 100% in Figma</p>
+          <p>A list of web projects that i have build with JS & REACT.</p>
         </div>
         <section class="py-20 px-8">
        
