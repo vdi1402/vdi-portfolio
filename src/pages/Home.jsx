@@ -21,14 +21,7 @@ const Home = () => {
             <div className="mt-4 text-2xl leading-20  md:leading-10 text-center md:text-center lg:mt-8">
             A non-tech girl who loves to play around UI/UX and implement it with  
             
-             <span className="bg-gradient-to-r from-color3 to-color2 text-transparent bg-clip-text"> <Typed
-                strings={[
-                  "   CODE! ",
-                ]}
-                typeSpeed={170}
-                backSpeed={100}
-                loop
-              ></Typed></span>
+             <span className="bg-gradient-to-r from-color3 to-color2 text-transparent bg-clip-text"> CODE!</span>
             </div>
           </div>
         </motion.div>
