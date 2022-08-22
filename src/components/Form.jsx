@@ -61,7 +61,7 @@ const Form = () => {
       >
         <div>
           <input
-            name='name'
+            name='user_name'
             className='border-b-2 border-color2  bg-transparent outline-none w-full mb-6 text-sm'
             type='text'
             value={name}
@@ -71,7 +71,7 @@ const Form = () => {
         </div>
         <div>
           <input
-            name='email'
+            name='user_email'
             className='border-b-2 border-color2 bg-transparent outline-none w-full mb-6 text-sm'
             type='email'
             value={email}
@@ -81,7 +81,7 @@ const Form = () => {
         </div>
         <div>
           <input
-            name='subject'
+            name='user_subject'
             className='border-b-2 border-color2 bg-transparent outline-none w-full mb-6 text-sm'
             type='text'
             value={subject}

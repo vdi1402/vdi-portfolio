@@ -9,13 +9,13 @@ const works = [
 
   {
     title: "UI Designs",
-    desc: "Here’s a list of Ui Designs that I have made completey in Figma.",
+    desc: "Here’s a list of Ui Designs that I have made in Figma.",
     path: "designs",
     img: responsiveLogo,
   },
   {
     title: "web Projects",
-    desc: "A list of UI designes for both app and website. Designed in Figma.",
+    desc: "A list of web projects that i have build with JS & REACT.",
     path: "illustration",
     img: web,
   },

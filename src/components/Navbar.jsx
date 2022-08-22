@@ -26,7 +26,7 @@ const Navbar = () => {
     <div className='flex bg-color1 text-white justify-end  md:justify-center align-center h-16 px-4 py-2'>
       <div className='lg:hidden'></div>
   
-      <div className='flex flex-col justify-between items-end relative'>
+      <div className='flex flex-col h-full justify-between items-end relative'>
         <img
           id='menu'
           src={menu}
