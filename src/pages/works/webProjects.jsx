@@ -114,7 +114,7 @@ const Illustration = () => {
                   My own portfolio that is build with ReactJS and TailwindCss!
                   </p>
                   <a
-                    href="https://VidhiTomar.netlify.app"
+                    href="https://vidhitomar.netlify.app"
                     class="inline-block mt-4 px-6 py-2 bg-gradient-to-r from-cyan-400 to-emerald-400 rounded-md shadow-md text-sm font-bold text-white"
                   >
                     View Live
