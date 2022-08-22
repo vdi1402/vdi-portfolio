@@ -3,7 +3,7 @@ import Contact from "./Contact";
 import WorkComp from "../components/WorkComp";
 import SectionNumber from "../components/SectionNumber";
 import { motion } from "framer-motion";
-import Typed from "react-typed";
+
 const Home = () => {
   return (
     <div className="bg-desktopcolor1 text-white ">
