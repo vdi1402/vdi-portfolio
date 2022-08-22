@@ -1,6 +1,6 @@
 # PortFolio Website
 
-Hi, I'm a UI/UX Designer. This is my personal portfolio website to display my projects.
+Hello!  i am Web developer(frontend).I love to create UI and then implement it with code!
 
 # Getting Started with Create React App
 
