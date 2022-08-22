@@ -34,14 +34,14 @@ const UiDesign = () => {
           <img
             src={design1}
             alt="design templates"
-            className="w-auto  md:h-[250px]"
+            className="w-auto    md:h-[250px]"
           />
         </figure>
         <figure className="px-4 py-2 bg-gradient-to-bl from-white to-slate-500  flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
           <img
             src={design2}
             alt="design templates"
-            className="w-auto md:h-[250px]"
+            className="w-auto  md:h-[250px]"
           />
         </figure>
         <figure className="px-4 bg-gradient-to-bl from-white to-slate-500  flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
@@ -62,14 +62,14 @@ const UiDesign = () => {
           <img
             src={design5}
             alt="design templates"
-            className="w-auto h-[250px]"
+            className="w-auto  md:h-[250px]"
           />
         </figure>
         <figure className="px-4  py-2 bg-gradient-to-bl from-white to-slate-500  flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
           <img
             src={design6}
             alt="design templates"
-            className="w-auto h-[250px]"
+            className="w-auto md:h-[250px]"
           />
         </figure>
 
@@ -77,42 +77,42 @@ const UiDesign = () => {
           <img
             src={design7}
             alt="design templates"
-            className="w-auto h-[250px]"
+            className="w-auto md:h-[250px]"
           />
         </figure>
         <figure className="px-4  py-2 bg-gradient-to-bl from-white to-slate-500  flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
           <img
             src={design8}
             alt="design templates"
-            className="w-auto h-[250px]"
+            className="w-auto md:h-[250px]"
           />
         </figure>
         <figure className="px-4 py-2 bg-gradient-to-bl from-white to-slate-500  flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
           <img
             src={design9}
             alt="design templates"
-            className="w-auto h-[250px]"
+            className="w-auto md:h-[250px]"
           />
         </figure>
         <figure className="px-4  py-2 bg-gradient-to-bl from-white to-slate-500  flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
           <img
             src={design10}
             alt="design templates"
-            className="w-full h-[250px]"
+            className="w-full md:h-[250px]"
           />
         </figure>
         <figure className="px-4  py-2 bg-gradient-to-bl from-white to-slate-500 flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
           <img
             src={design11}
             alt="design templates"
-            className="w-auto h-[250px]"
+            className="w-auto md:h-[250px]"
           />
         </figure>
         <figure className="px-4  py-2 bg-gradient-to-bl from-white to-slate-500  flex-grow flex justify-center items-center md:transform md:transition md:duration-500 md:hover:scale-150  md:hover:z-10 md:active:z-10">
           <img
             src={design12}
             alt="design templates"
-            className="w-auto h-[250px]"
+            className="w-auto md:h-[250px]"
           />
         </figure>
       </div>
