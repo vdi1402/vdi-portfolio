@@ -7,6 +7,7 @@ import AnimatedRouter from "./components/AnimatedRouter";
 function App() {
   return (
     <div className='app relative'>
+      
 
       <Navbar />
      
